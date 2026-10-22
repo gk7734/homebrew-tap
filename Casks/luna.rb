@@ -1,6 +1,6 @@
 cask "luna" do
   version "1.26.0"
-  sha256 "4f1ebfe9a1ed6d242f91dea0df26268b3bc134e582c60ef2d41c8fbf61ed164e"
+  sha256 "c11d5b3b64c558dfdd05198d97724ac60ca0ede613b3f1a53158e46e4408d1e3"
 
   url "https://github.com/gk7734/luna/releases/download/v#{version}/Luna-#{version}-aarch64.dmg"
   name "Luna"
